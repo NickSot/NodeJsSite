@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "start": "node server.js"
+    },
+    "name": "node_app",
+    "version": "1.0"
+}
