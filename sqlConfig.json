@@ -1,0 +1,8 @@
+{
+    "db": {
+        "user": "sa",
+        "password": "fori=0",
+        "server": "NIK\\SQLNIK",
+        "database": "Node App DB"
+    }
+}
